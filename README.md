@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Filip.
-- 👀 I’m interested in C#, Kotlin and mobile dev. But my job is software testing.
-- 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on nothing, I am lone wolf for now.
+- 👀 I’m interested in web development and hybrid development. But my actual job is in software testing.
+- 🌱 I’m currently learning web devlopment include HTML, CSS, JS for frontend and Node.js for backend.
+- 💞️ I’m looking to collaborate on nothing right now. I am not ready for collaboration with other programmers.
 - 📫 How to reach me? Somewhere and somehow.
 
 <!---
