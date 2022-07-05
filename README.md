@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Filip.
-- 👀 I’m interested in web development and hybrid development. But my actual job is in software testing.
+- 👀 I’m interested in a hybrid development. But my actual job is in software testing.
 - 💡 I know C# from university projects and Python like scripting language from my testing career.
-- 🌱 I’m currently learning web devlopment include HTML, CSS, JS for frontend and Node.js for backend.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on nothing right now. I am not ready for collaboration with other programmers.
 - 📫 How to reach me? Somewhere and somehow.
 
