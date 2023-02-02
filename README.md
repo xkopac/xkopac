@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Filip.
-- 👀 I’m interested in a hybrid development. But my actual job is in software testing.
+- 👀 I’m interested in a mobile development. But my actual job is in software testing.
 - 💡 I know C# from university projects and Python like scripting language from my testing career.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Kotlin and Android development.
 - 💞️ I’m looking to collaborate on nothing right now. I am not ready for collaboration with other programmers.
 - 📫 How to reach me? Somewhere and somehow.
 
