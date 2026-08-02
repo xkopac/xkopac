@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Filip.
-- 👀 I’m interested in a game development and in creative mind set.
+- 👀 I’m interested in a game development and more likely gamification.
 - 💡 I know C# from university projects and Python like scripting language from my testing career.
-- 🌱 I’m currently learning Godot for my free time project.
+- 🌱 I’m currently learning how to create interactives stories.
 - 📫 How to reach me? Somewhere and somehow.
 
 <!---
